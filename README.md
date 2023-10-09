@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathanikasekar
-- 👀 I’m interested in JAVA and Data Structures.
+- 👀 I’m interested in full stack development.
 - 🌱 I’m currently working in Sony India Software Centre.
 - 📫 How to reach me mail ID : mathanikasekar@gmail.com, mathanika2510@gmail.com...
 
